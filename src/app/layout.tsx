@@ -62,9 +62,9 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Wadeem Gardens — Luxury Residences in Abu Dhabi",
+    title: "Wadeem Gardens — Luxury Villas in Hudayriyat Island",
     description:
-      "A new standard of luxury living in Abu Dhabi. Premium 3 to 6 bedroom residences with world-class amenities.",
+      "A new standard of luxury living in Hudayriyat Island. Premium 3 to 6 bedroom villas with world-class amenities.",
     type: "website",
     locale: "en_AE",
     alternateLocale: "ar_AE",
@@ -81,9 +81,9 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Wadeem Gardens — Luxury Residences in Abu Dhabi",
+    title: "Wadeem Gardens — Luxury Villas in Hudayriyat Island",
     description:
-      "A new standard of luxury living in Abu Dhabi. Premium 3 to 6 bedroom residences with world-class amenities.",
+      "A new standard of luxury living in Hudayriyat Island. Premium 3 to 6 bedroom villas with world-class amenities.",
     images: [HERO_IMAGE_URL],
   },
   robots: {
